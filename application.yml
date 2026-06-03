@@ -1,3 +1,7 @@
+spring:
+  application:
+    name: Config-server
+
 # Below are the repeated configurations of UserService, HotelService and RatingService
 eureka:
   instance:
